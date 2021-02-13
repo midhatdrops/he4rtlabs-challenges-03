@@ -1,9 +1,3 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "username": "Teste",
-      "passwordHash": "1234"
-    }
-  ]
+  "users": []
 }
